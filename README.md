@@ -1,2 +1,2 @@
 ## Photo Gallery
-Site para portifólio em geral
+Site para portifólio
